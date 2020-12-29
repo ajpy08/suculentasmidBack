@@ -25,5 +25,10 @@
   "bugs": {
     "url": "https://github.com/ajpy08/suculentasmidBack/issues"
   },
-  "homepage": "https://github.com/ajpy08/suculentasmidBack#readme"
+  "homepage": "https://github.com/ajpy08/suculentasmidBack#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.9",
+    "nodemon": "^2.0.6"
+  }
 }
