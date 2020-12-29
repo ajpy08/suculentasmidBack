@@ -5,3 +5,5 @@ router.get('/', (req, res) => {
     mensaje: 'Bienvenido a la API de Suculentas y más',
   });
 });
+
+module.exports = router;
