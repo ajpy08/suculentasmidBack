@@ -1,0 +1,29 @@
+{
+  "name": "suculentasmidback",
+  "version": "1.0.0",
+  "description": "API Suculentas Mid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajpy08/suculentasmidBack.git"
+  },
+  "keywords": [
+    "suculentas",
+    "mid",
+    "sucus",
+    "plantas",
+    "vivero",
+    "succulents",
+    "plant",
+    "plants"
+  ],
+  "author": "I.S.C. Javier Puc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajpy08/suculentasmidBack/issues"
+  },
+  "homepage": "https://github.com/ajpy08/suculentasmidBack#readme"
+}
