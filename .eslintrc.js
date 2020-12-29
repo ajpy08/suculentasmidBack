@@ -10,5 +10,5 @@ module.exports = {
   parserOptions: {
     ecmaVersion: 12,
   },
-  rules: { 'linebreak-style': 0, 'no-console': 0 },
+  rules: { 'linebreak-style': 0, 'no-console': 0, 'global-require': 0 },
 };

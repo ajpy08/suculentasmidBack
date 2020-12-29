@@ -1,11 +1,10 @@
 const express = require('express');
 const rutas = require('./routes/index.js');
+const enviroment = require('./config/config').config();
 
 const app = express();
 app.use('/api', rutas);
 
-const port = 3000;
-
-app.listen(port, () => {
-  console.log(`Server running on port ${port}`);
+app.listen(enviroment.PORT, () => {
+  console.log(`Server running on port ${enviroment.PORT}`);
 });
